@@ -28,6 +28,14 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	margin-top: 0;
+	font-size: 40px;
+	color: white;
+	text-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+	text-align: center;
+}
+
 .cislo {
 	position: relative;
 	display: inline-block;
